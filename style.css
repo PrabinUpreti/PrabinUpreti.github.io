@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  font-family: "Ubuntu", sans-serif;
+  font-size: small;
+  font-weight: lighter
+}
